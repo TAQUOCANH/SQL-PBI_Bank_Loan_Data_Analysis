@@ -40,9 +40,42 @@ See more detail: https://docs.google.com/document/d/1AzPGot5EupUrt6IITzn1J1wv2Ox
 <img width="1200" alt="Screenshot_12" src="https://github.com/user-attachments/assets/ad9d94bd-591a-4e3d-ae93-93d10fee9d31">
 
 
-## III. Expected Outcomes:
-<ul>
-  <li>Enhanced understanding of the bank's loan portfolio composition, performance, and risk exposure.</li>
-  <li>Identification of opportunities to optimize lending practices, improve credit risk assessment, and enhance portfolio diversification.</li>
-  <li>Empowerment of stakeholders with actionable insights for making informed decisions related to loan management and portfolio optimization.</li>
-</ul>
+## III. Insight
+<h4>1. Loan Application Analysis</h4>
+    <p><strong>Total Loan Applications:</strong> 38,600 applications</p>
+    <ul>
+        <li>The number of applications increased steadily from January (2.3K) to December (4.3K), indicating a significant rise in loan demand.</li>
+        <li>States with the highest number of applications are CA (6.9K), NY (3.7K), FL (2.8K), and TX (2.7K), showing high demand for loans in these regions.</li>
+        <li>The majority of loan applications come from individuals with over 10 years of employment (8.9K) and less than 1 year (4.6K), possibly reflecting a stable income or the start of a career.</li>
+        <li>The most common loan purposes are debt consolidation (18K), credit card (5K), and home improvement (4K), indicating that borrowers aim to manage debt effectively or upgrade personal assets.</li>
+        <li>Loan applications from renters (18K) and mortgage holders (17K) are nearly equal, suggesting high loan demand from both groups.</li>
+    </ul>
+
+    <h4>2. Funded Amount Analysis</h4>
+    <p><strong>Total Funded Amount:</strong> $435.8 million</p>
+    <ul>
+        <li>The funded amount also increased from January ($25M) to December ($54M), corresponding with the rise in loan applications.</li>
+        <li>The highest funded amounts are in CA ($78M), followed by NY ($42M), and TX ($31M), reflecting strong economies in these states.</li>
+        <li>The highest funded amounts go to individuals with over 10 years of employment ($116M) and 2 years ($45M), indicating better repayment capabilities.</li>
+        <li>Debt consolidation (0.23 billion), credit card (0.06 billion), and home improvement (0.03 billion) are the top funded purposes.</li>
+        <li>Mortgage holders receive the highest funded amount ($219.33M), followed by renters ($185.77M), possibly due to the collateral provided by mortgage holders.</li>
+    </ul>
+
+    <h4>3. Received Amount Analysis</h4>
+    <p><strong>Total Amount Received:</strong> $473.1 million</p>
+    <ul>
+        <li>The received amount increased from January ($28M) to December ($58M), showing effective debt recovery.</li>
+        <li>CA has the highest received amount ($84M), followed by NY ($46M) and TX ($34M), reflecting strong economies and repayment abilities.</li>
+        <li>Individuals with over 10 years of employment ($126M) and 3 years ($48M) have the highest repayment amounts.</li>
+        <li>The most repaid loan purposes are debt consolidation (0.25 billion), credit card (0.07 billion), and home improvement (0.04 billion).</li>
+        <li>Mortgage holders repay the highest amount ($238.47M), followed by renters ($201.82M).</li>
+    </ul>
+
+    <h4>Recommendations</h4>
+    <ul>
+        <li><strong>Enhance Risk Assessment:</strong> Implement stricter credit evaluation criteria to reduce the percentage of bad loans. Use predictive analytics to identify high-risk segments and adjust lending policies accordingly.</li>
+        <li><strong>Optimize Interest Rates:</strong> Continuously monitor market conditions to maintain competitive interest rates. Consider variable interest rates based on borrower profiles to attract a diverse customer base.</li>
+        <li><strong>Improve Debt-to-Income (DTI) Ratio Management:</strong> Educate borrowers on maintaining a healthy DTI ratio through workshops or online resources.</li>
+        <li><strong>Expand Lending Portfolio:</strong> Explore new or underserved markets to expand the customer base. Diversify loan products, such as small business loans, educational loans, or green loans, to attract a wide range of customers.</li>
+        <li><strong>Leverage Technology:</strong> Use artificial intelligence and machine learning to enhance predictive modeling for loan approvals and risk assessment. Invest in digital platforms to streamline the loan application and approval process, providing a seamless experience for customers.</li>
+    </ul>
