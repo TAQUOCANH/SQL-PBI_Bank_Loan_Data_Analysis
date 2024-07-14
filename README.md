@@ -34,7 +34,7 @@ See more detail: https://docs.google.com/document/d/1AzPGot5EupUrt6IITzn1J1wv2Ox
 ### 2. Build Dashboard
 <p><b>Summary</b></p>
 <img width="1200" alt="Screenshot_9" src="https://github.com/user-attachments/assets/c4ca0631-8109-4df2-be8f-5a0eb4f15be6">
-<p><b>Customer</b></p>
+<p><b>Overview</b></p>
 <img width="1200" alt="Screenshot_10" src="https://github.com/user-attachments/assets/6dc9ea66-f388-45ca-bbd6-56e443fb29df">
-<p><b>Product</b></p>
+<p><b>Details</b></p>
 <img width="1200" alt="Screenshot_12" src="https://github.com/user-attachments/assets/ad9d94bd-591a-4e3d-ae93-93d10fee9d31">
