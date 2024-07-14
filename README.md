@@ -41,7 +41,8 @@ See more detail: https://docs.google.com/document/d/1AzPGot5EupUrt6IITzn1J1wv2Ox
 
 
 ## III. Expected Outcomes:
-
-Enhanced understanding of the bank's loan portfolio composition, performance, and risk exposure.
-Identification of opportunities to optimize lending practices, improve credit risk assessment, and enhance portfolio diversification.
-Empowerment of stakeholders with actionable insights for making informed decisions related to loan management and portfolio optimization.
+<ul>
+  <li>Enhanced understanding of the bank's loan portfolio composition, performance, and risk exposure.</li>
+  <li>Identification of opportunities to optimize lending practices, improve credit risk assessment, and enhance portfolio diversification.</li>
+  <li>Empowerment of stakeholders with actionable insights for making informed decisions related to loan management and portfolio optimization.</li>
+</ul>
