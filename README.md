@@ -32,9 +32,9 @@ See more detail: https://docs.google.com/document/d/1AzPGot5EupUrt6IITzn1J1wv2Ox
 
 
 ### 2. Build Dashboard
-<p><b>Sale Overview</b></p>
-<img width="1200" alt="Screenshot_9" src="https://github.com/TAQUOCANH/PBI_RFM_ANALYSIS/assets/135592751/d58ccddc-82ee-4665-943d-d28881fd7ee3">
+<p><b>Summary</b></p>
+<img width="1200" alt="Screenshot_9" src="https://github.com/user-attachments/assets/c4ca0631-8109-4df2-be8f-5a0eb4f15be6">
 <p><b>Customer</b></p>
-<img width="1200" alt="Screenshot_10" src="https://github.com/TAQUOCANH/PBI_RFM_ANALYSIS/assets/135592751/2686126a-7861-4975-9ad7-7ef6c1aa1201">
+<img width="1200" alt="Screenshot_10" src="https://github.com/user-attachments/assets/6dc9ea66-f388-45ca-bbd6-56e443fb29df">
 <p><b>Product</b></p>
-<img width="1200" alt="Screenshot_12" src="https://github.com/TAQUOCANH/PBI_RFM_ANALYSIS/assets/135592751/c89e75b8-3a12-4525-8c42-4c053f3dd162">
+<img width="1200" alt="Screenshot_12" src="https://github.com/user-attachments/assets/ad9d94bd-591a-4e3d-ae93-93d10fee9d31">
