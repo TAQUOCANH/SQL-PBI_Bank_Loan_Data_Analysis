@@ -23,3 +23,18 @@ Internal bank databases containing loan information including borrower details, 
 
 ### 3.Ideate
 <img width="1200" alt="stage3" src="https://github.com/user-attachments/assets/f6e296e7-6df4-41f7-9b9d-626f8daeb4c9">
+
+## III. Main Process
+
+### SQL Query
+See more detail: https://docs.google.com/document/d/1AzPGot5EupUrt6IITzn1J1wv2OxgiYS7E-6th5zpH0E/edit
+
+
+
+### 2. Build Dashboard
+<p><b>Sale Overview</b></p>
+<img width="1200" alt="Screenshot_9" src="https://github.com/TAQUOCANH/PBI_RFM_ANALYSIS/assets/135592751/d58ccddc-82ee-4665-943d-d28881fd7ee3">
+<p><b>Customer</b></p>
+<img width="1200" alt="Screenshot_10" src="https://github.com/TAQUOCANH/PBI_RFM_ANALYSIS/assets/135592751/2686126a-7861-4975-9ad7-7ef6c1aa1201">
+<p><b>Product</b></p>
+<img width="1200" alt="Screenshot_12" src="https://github.com/TAQUOCANH/PBI_RFM_ANALYSIS/assets/135592751/c89e75b8-3a12-4525-8c42-4c053f3dd162">
