@@ -79,10 +79,11 @@ See more detail: https://docs.google.com/document/d/1AzPGot5EupUrt6IITzn1J1wv2Ox
         <p><strong>Fully Paid Loans:</strong> The majority of the loans are fully paid, with a significant amount of funds received, suggesting effective loan management and customer repayment.</p>
   
 ## IV. Recommendations
-    <ul>
+    
+<ul>
         <li><strong>Enhance Risk Assessment:</strong> Implement stricter credit evaluation criteria to reduce the percentage of bad loans. Use predictive analytics to identify high-risk segments and adjust lending policies accordingly.</li>
         <li><strong>Optimize Interest Rates:</strong> Continuously monitor market conditions to maintain competitive interest rates. Consider variable interest rates based on borrower profiles to attract a diverse customer base.</li>
         <li><strong>Improve Debt-to-Income (DTI) Ratio Management:</strong> Educate borrowers on maintaining a healthy DTI ratio through workshops or online resources.</li>
         <li><strong>Expand Lending Portfolio:</strong> Explore new or underserved markets to expand the customer base. Diversify loan products, such as small business loans, educational loans, or green loans, to attract a wide range of customers.</li>
         <li><strong>Leverage Technology:</strong> Use artificial intelligence and machine learning to enhance predictive modeling for loan approvals and risk assessment. Invest in digital platforms to streamline the loan application and approval process, providing a seamless experience for customers.</li>
-    </ul>
+</ul>
