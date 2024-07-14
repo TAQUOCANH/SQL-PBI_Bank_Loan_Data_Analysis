@@ -10,3 +10,16 @@
   <li>Develop interactive dashboards in Power BI for visualizing key metrics and trends.</li>
   <li>Generate insights to optimize lending practices, manage risks, and improve overall portfolio performance.</li>
 </ul>
+
+### 2. Dataset
+Internal bank databases containing loan information including borrower details, loan amounts, interest rates, repayment terms, and loan status.
+
+## II. Apply design-thinking mindset
+### 1. Empathize
+<img width="1200" alt="emphathy" src="https://github.com/user-attachments/assets/2617a935-efa7-4ff0-8cc5-8ec24c0f590f">
+
+### 2. Define point of view
+<img width="1200" alt="stage2" src="https://github.com/user-attachments/assets/118c34f8-6af5-40b3-ba82-59f7deefde6e">
+
+### 3.Ideate
+<img width="1200" alt="stage3" src="https://github.com/user-attachments/assets/f6e296e7-6df4-41f7-9b9d-626f8daeb4c9">
