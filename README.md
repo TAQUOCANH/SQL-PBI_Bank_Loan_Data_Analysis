@@ -71,7 +71,14 @@ See more detail: https://docs.google.com/document/d/1AzPGot5EupUrt6IITzn1J1wv2Ox
         <li>Mortgage holders repay the highest amount ($238.47M), followed by renters ($201.82M).</li>
     </ul>
 
-  <h4>Recommendations</h4>
+
+<h3>Bank Loan Report Summary</h3>
+        <p><strong>High Proportion of Good Loans:</strong> 86.2% of the loans issued are good, indicating a strong performance in terms of loan quality.</p>
+        <p><strong>Growing Loan Volume and Revenue:</strong> Both the total funded amount and the amount received are growing month-over-month (MoM), indicating increasing business activity and profitability.</p>
+        <p><strong>Interest Rates and DTI:</strong> The average interest rate and debt-to-income (DTI) ratio are slightly increasing, which could affect loan affordability for customers.</p>
+        <p><strong>Fully Paid Loans:</strong> The majority of the loans are fully paid, with a significant amount of funds received, suggesting effective loan management and customer repayment.</p>
+  
+## IV. Recommendations
     <ul>
         <li><strong>Enhance Risk Assessment:</strong> Implement stricter credit evaluation criteria to reduce the percentage of bad loans. Use predictive analytics to identify high-risk segments and adjust lending policies accordingly.</li>
         <li><strong>Optimize Interest Rates:</strong> Continuously monitor market conditions to maintain competitive interest rates. Consider variable interest rates based on borrower profiles to attract a diverse customer base.</li>
