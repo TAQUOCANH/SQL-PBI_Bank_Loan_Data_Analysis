@@ -51,7 +51,7 @@ See more detail: https://docs.google.com/document/d/1AzPGot5EupUrt6IITzn1J1wv2Ox
         <li>Loan applications from renters (18K) and mortgage holders (17K) are nearly equal, suggesting high loan demand from both groups.</li>
     </ul>
 
-    <h4>2. Funded Amount Analysis</h4>
+  <h4>2. Funded Amount Analysis</h4>
     <p><strong>Total Funded Amount:</strong> $435.8 million</p>
     <ul>
         <li>The funded amount also increased from January ($25M) to December ($54M), corresponding with the rise in loan applications.</li>
@@ -61,7 +61,7 @@ See more detail: https://docs.google.com/document/d/1AzPGot5EupUrt6IITzn1J1wv2Ox
         <li>Mortgage holders receive the highest funded amount ($219.33M), followed by renters ($185.77M), possibly due to the collateral provided by mortgage holders.</li>
     </ul>
 
-    <h4>3. Received Amount Analysis</h4>
+  <h4>3. Received Amount Analysis</h4>
     <p><strong>Total Amount Received:</strong> $473.1 million</p>
     <ul>
         <li>The received amount increased from January ($28M) to December ($58M), showing effective debt recovery.</li>
@@ -71,7 +71,7 @@ See more detail: https://docs.google.com/document/d/1AzPGot5EupUrt6IITzn1J1wv2Ox
         <li>Mortgage holders repay the highest amount ($238.47M), followed by renters ($201.82M).</li>
     </ul>
 
-    <h4>Recommendations</h4>
+  <h4>Recommendations</h4>
     <ul>
         <li><strong>Enhance Risk Assessment:</strong> Implement stricter credit evaluation criteria to reduce the percentage of bad loans. Use predictive analytics to identify high-risk segments and adjust lending policies accordingly.</li>
         <li><strong>Optimize Interest Rates:</strong> Continuously monitor market conditions to maintain competitive interest rates. Consider variable interest rates based on borrower profiles to attract a diverse customer base.</li>
