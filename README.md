@@ -26,7 +26,7 @@ Internal bank databases containing loan information including borrower details, 
 
 ## III. Main Process
 
-### SQL Query
+### 1. SQL Query
 See more detail: https://docs.google.com/document/d/1AzPGot5EupUrt6IITzn1J1wv2OxgiYS7E-6th5zpH0E/edit
 
 
@@ -38,3 +38,10 @@ See more detail: https://docs.google.com/document/d/1AzPGot5EupUrt6IITzn1J1wv2Ox
 <img width="1200" alt="Screenshot_10" src="https://github.com/user-attachments/assets/6dc9ea66-f388-45ca-bbd6-56e443fb29df">
 <p><b>Details</b></p>
 <img width="1200" alt="Screenshot_12" src="https://github.com/user-attachments/assets/ad9d94bd-591a-4e3d-ae93-93d10fee9d31">
+
+
+## III. Expected Outcomes:
+
+Enhanced understanding of the bank's loan portfolio composition, performance, and risk exposure.
+Identification of opportunities to optimize lending practices, improve credit risk assessment, and enhance portfolio diversification.
+Empowerment of stakeholders with actionable insights for making informed decisions related to loan management and portfolio optimization.
